@@ -29,7 +29,7 @@ public class Application {
 //		emp.setEmpSalary(78000);
 		//ADD MORE RECOREDS ...
 		
-		Saving info in the DB 
+		//Saving info in the DB 
 		//empRepo.save(emp);
 		
 //Sorting will be based on the Name 		
